@@ -12,3 +12,4 @@ Files not listed in credits are most likely my original work, unless stated othe
 - [Laughter of a Million Faces](https://github.com/kit-katkittycat/explode/blob/master/RazFraz-LaughterOfaMillionFaces.mp3) - https://youtu.be/T40B1YOTXdQ
 - [shadowmantle.png](shadowmantle.png) - [Deltarune Wiki](https://deltarune.wiki/w/Shadow_Mantle_holder)
 - [BURNING EYES](TobyFox-BurningEyes.mp3) - [YouTube](https://youtu.be/erd9WGhHQdc)
+- [Onsen](TobyFox-Onsen.mp3) - [YouTube](https://www.youtube.com/watch?v=o681RqsnRM0)
