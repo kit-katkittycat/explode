@@ -12,3 +12,4 @@ Files not listed in credits are most likely my original work, unless stated othe
 - [shadowmantle.png](shadowmantle.png) - [Deltarune Wiki](https://deltarune.wiki/w/Shadow_Mantle_holder)
 - [BURNING EYES](TobyFox-BurningEyes.mp3) - [YouTube](https://youtu.be/erd9WGhHQdc)
 - [Onsen](TobyFox-Onsen.mp3) - [YouTube](https://www.youtube.com/watch?v=o681RqsnRM0)
+- [friend_laugh](FRIEND_laugh.mp3) - [Deltarune Website](https://deltarune.com/assets/audio/face.ogg)/[Deltarune Wiki](https://deltarune.wiki/w/Unlisted_music_tracks#face) (reencoded into .mp3 with ffmpeg by me)
