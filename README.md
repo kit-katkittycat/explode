@@ -15,3 +15,4 @@ Files not listed in credits are most likely my original work, unless stated othe
 - [Onsen](TobyFox-Onsen.mp3) - [YouTube](https://www.youtube.com/watch?v=o681RqsnRM0)
 - [friend_laugh](FRIEND_laugh.mp3) - [Deltarune Website](https://deltarune.com/assets/audio/face.ogg)/[Deltarune Wiki](https://deltarune.wiki/w/Unlisted_music_tracks#face) (reencoded into .mp3 with ffmpeg by me)
 - [FRIEND_laugh_long](FRIEND_laugh_long) - [YouTube](https://youtu.be/UfC98GBdBME)
+- [Ultrakill Heal](Ultrakill-Heal.wav) - [Ultrakill Wiki](https://ultrakill.wiki.gg/wiki/Sound_Effects)
