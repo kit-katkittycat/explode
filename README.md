@@ -16,3 +16,4 @@ Files not listed in credits are most likely my original work, unless stated othe
 - [friend_laugh](FRIEND_laugh.mp3) - [Deltarune Website](https://deltarune.com/assets/audio/face.ogg)/[Deltarune Wiki](https://deltarune.wiki/w/Unlisted_music_tracks#face) (reencoded into .mp3 with ffmpeg by me)
 - [FRIEND_laugh_long](FRIEND_laugh_long) - [YouTube](https://youtu.be/UfC98GBdBME)
 - [Ultrakill Heal](Ultrakill-Heal.mp3) - [Ultrakill Wiki](https://ultrakill.wiki.gg/wiki/Sound_Effects)
+- [ya-fixiryi](ia-fiksiruiu.mp3) - I actually don't know where this came from? A friend just sent this over so that I could use it.
